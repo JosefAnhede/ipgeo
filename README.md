@@ -3,7 +3,9 @@
 
 ## Summary
 Command line tool for finding geo-location of IP adresses. Works on Linux and MacOS.
-Using the free and open API http://geoiplookup.net/xml-api/
+Using the free and open API http://geoiplookup.net/xml-api/ <br />
+<img src="https://raw.githubusercontent.com/JosefAnhede/ipgeo/main/ipgeoexample.gif" width="400" height="256"/>
+
 
 ## Options
 **{IP}** REQUIRED, The IP to lookup <br />
