@@ -6,7 +6,7 @@ Command line tool for finding geo-location of IP adresses. Works on Linux and Ma
 Using the free and open API http://geoiplookup.net/xml-api/
 
 ## Options
-**{IP}** REQUIRED, The IP to lookup
+**{IP}** REQUIRED, The IP to lookup <br />
 **-g/--gmaps** Output a Google Maps link to the IPs coordinates
 
 ## Installation
