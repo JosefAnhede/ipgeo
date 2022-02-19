@@ -1,7 +1,5 @@
 # ipgeo
-**ipgeo [-g/--gmaps] {IP}**
-
-## Summary
+**ipgeo [-g/--gmaps] {IP}** <br />
 A command-line tool for finding geo-location of IP adresses. Works on Linux and MacOS.
 Using the free and open API http://geoiplookup.net/xml-api/ <br />
 <img src="https://raw.githubusercontent.com/JosefAnhede/ipgeo/main/ipgeoexample.gif" width="400" height="256"/>
